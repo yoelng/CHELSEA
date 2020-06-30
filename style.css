@@ -1,0 +1,37 @@
+#manager{
+    border-radius: 50px;
+    width: 100px;
+}
+h1{
+    font-family: 'Righteous', cursive;
+}
+h3{
+    font-family: 'Caveat', cursive;
+    color: white;
+}
+#kepa{
+    border-radius: 50%;
+    width: 100px;
+}
+#defender{
+    border-radius: 50%;
+    width: 100px;
+}
+#mid{
+    border-radius: 50%;
+    width: 100px;
+}
+#maker{
+    border-radius: 50%;
+    width: 100px;
+}
+#attack{
+    border-radius: 50%;
+    width: 100px;
+}
+body{
+    background-image: url(img/wall6.jpg);
+    background-repeat: no-repeat;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
